@@ -3,9 +3,7 @@
 
 
 
-### About me:
 
-## Passionate freelance Full stack web developer living in Kyrgyzstan. I am open for collaboration and knowledge exchange.
 
 - 🌱  Learning Fullstack Web Development
 - 💬 Ask me about anything ☞ [here](https://www.instagram.com/__bolotovaaigerim__/)
